@@ -1,0 +1,47 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled20.ipynb adlı not defterinin kopyası",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNKCzOrnuRCo38n2nv7aL3s",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/sevgiE/HU-BBY162-2022/blob/main/veritabani.txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "8znk4qU8tK9H"
+      },
+      "outputs": [],
+      "source": [
+        "Kehanet|John Kilgallon|2011|Pegasus Yayınları\n",
+        "Mucize|R.J. Palacio|2017|Pegasus Yayınları\n",
+        "Simyacı|Paulo Coelho|2017|Can Yayınları\n",
+        "Otomatik Portakal|Anthony Burgess|1962|İş Bankası Yayınları\n",
+        "Sergüzeşt|Samipaşazade Sezai|2004|Bordo Siyah Klasik Yayınları\n",
+        "\n"
+      ]
+    }
+  ]
+}
